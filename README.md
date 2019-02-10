@@ -28,3 +28,8 @@ will
 be 
 grouped
 together.
+
+
+Link to file in another folder
+
+Link to [Awesome Protocol 1](Methods/Awesome_Protocol_1.md)
