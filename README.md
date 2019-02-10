@@ -8,7 +8,7 @@ Name goes in [square brackets] and the link in (parentheses)
 
 [Link to text stuff](text_studd.md)
 
-[Notes about lists](lists_and_bullets.md)
+[Notes about lists](Lists_and_Bullets.md)
 
 [Notes about Tables](tables.md)
 
